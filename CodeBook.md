@@ -2,6 +2,8 @@ Code Book for Getting and Cleaning Data Course Course Project
 =============================================================
 ### Variables
 
+***Note**: Because the variables included here (with the exception of `activity` and `subject) are normalized, the variables do not have any units and have ranges from -1 to 1.*
+
 **activity**
 
 - *Values*: [WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING]
