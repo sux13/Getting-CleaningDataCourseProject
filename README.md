@@ -114,4 +114,4 @@ The `write.table` function is used to save the resultant 180 by 81 dataframe to 
 
 ## Final Output
 
-The final output file, `UCI HAR Tidy Averages Dataset.txt`, contains the averages for the means and standard deviation of all measurements for each subject and activity pair along with the variable names. The detailed explanation of each of the 81 variables can be found in the [`CodeBook.md`]() file. 
+The final output file, `UCI HAR Tidy Averages Dataset.txt`, contains the averages for the means and standard deviation of all measurements for each subject and activity pair along with the variable names. The detailed explanation of each of the 81 variables can be found in the [`CodeBook.md`](https://github.com/sux13/Getting-CleaningDataCourseProject/blob/master/CodeBook.md) file. 
